@@ -1,4 +1,4 @@
-package org;
+package org.example.SFMC;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
